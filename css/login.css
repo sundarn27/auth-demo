@@ -1,0 +1,22 @@
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    top: 200px;
+    border: 1px solid black;
+    border-radius: 8px;
+    gap: 20px;
+    padding: 50px 50px;
+}
+.btn{
+    position: relative;
+    left: 65px;
+}
+.link{
+    position: relative;
+    left: 30px;
+
+}
